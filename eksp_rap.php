@@ -1,0 +1,1 @@
+•Eksportowanie raportów w formacie PDF lub (SVC)
